@@ -1,0 +1,27 @@
+{
+  "general": [
+    {
+      "command": "Arrow Function",
+      "description": "Prevent awkward behavior of this",
+      "usage": " = () => "
+    }
+  ],
+  "arrays": [
+    {
+      "command": "Map",
+      "description": "Allows you to  change every element of array",
+      "usage": "numbers.map((number) => number * 2)"
+    }],
+    "install error": [
+      {
+        "command": "rm -rf node_modules then npm install",
+        "description": "Allows you to fix error 'Error: Cannot find module 'faye''",
+        "usage": "NA"
+      },
+      {
+        "command": "npm run build",
+        "description": "Create a distribution version of the app",
+        "usage": "NA"
+      }
+  ]
+}
